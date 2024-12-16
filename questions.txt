@@ -1,0 +1,48 @@
+1 + 3 = ?
+4
+5 % 3 = ?
+2
+2 - 1 = ?
+1
+5 x 14 = ?
+70
+86 - 13 = ?
+73
+123 x 2 = ?
+246
+(5 == 2*2+1) && (2+2 != 5-1) = ? (1: true, 0: false)
+0
+true && true && false || true = ? (1: true, 0: false)
+1
+10 ਵਿਲੱਖਣ ਤੱਤਾਂ ਦੇ ਇੱਕ ਸਮੂਹ ਲਈ ਕਿੰਨੇ ਸੰਭਾਵਿਤ ਕ੍ਰਮ-ਕ੍ਰਮ ਹਨ?
+-1
+1+2+3+4+5 != 12 || false = ? (1: true, 0: false)
+1
+How many unique numbers can a byte store in java?
+256
+对于 10 个独特元素的集合，有多少种可能的排列？
+-1
+Convert this binary number to base 10: 10110
+22
+Convert this base 10 number to binary: 35
+100011
+Πόσες πιθανές μεταθέσεις υπάρχουν για ένα σύνολο 10 μοναδικών στοιχείων:
+-1
+What is the default initial capacity of a StringBuilder?
+16
+Can abstract classes have static variables? (1: Yes, 0: No)
+1
+ما عدد التباديل الممكنة لمجموعة مكونة من 10 عناصر فريدة:
+-1
+Java uses merge sort in structures that store primitive types. (1: true, 0: false)
+0
+14*11 = ?
+154
+มีการเรียงสับเปลี่ยนที่เป็นไปได้กี่ครั้งสำหรับชุดองค์ประกอบที่ไม่ซ้ำกัน 10 รายการ:
+-1
+What is the x86 instruction for the hexadecimal opcode 50 (in decimal)?
+80
+What value is in the R3 register after executing the PowerPC instruction ADDI R3, R3, 10 if R3 initially contains 5?
+15
+10 個の一意の要素のセットに対して可能な順列は何通りありますか。
+-1
